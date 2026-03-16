@@ -26,3 +26,5 @@ Simulación de cajero automático en consola con:
 Abrir el proyecto → Run → CajeroAutomaticoSeguroDos.main()
 # Opción 2: desde terminal (con javac)
 javac -d bin src/main/java/com/jessi/cajero/*.java
+
+
